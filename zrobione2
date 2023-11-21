@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+      <head>
+           <meta charst="UTF-8" />
+           <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+           <meta name="viewport" content="width=device-width, instal scan"
+           <title>Login</title>
+           <link rel="stylesheet" href="styles.css" />
+
+      </head>
+      <body>
+         <form>
+            <form autocomplete="off">
+            <div class="form_input-container">
+            <label for="">User</label>
+             <input id="user" type="text"/>
+            </div>
+            <div class="form_input-container">
+             <label for="password">Password</label>
+             <input id="password" type ="password" />
+             </div>
+             <button>Login</button>
+         </form>
+         
+      </body>
+</html>
